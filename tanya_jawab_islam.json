@@ -434,6 +434,24 @@
       "responses": [
         "Mitra yang tergabung seperti Pertamina, Bank BRI, PT. KBN, dsb. Info lebih lanjut melalui website FHCI BUMN atau instagram @fhci.bumn"
       ]
+    },
+    {
+      "tag": "Allah",
+      "patterns": [
+        "Apa itu Asmaul husna?"
+      ],
+      "responses": [
+        "Asmaul husna adalah kumpulan nama yang dimiliki oleh satu Tuhan yang Esa"
+      ]
+    },
+    {
+      "tag": "Allah",
+      "patterns": [
+        "Apakah Allah yang disembah oleh umat islam adalah dewa bulan?"
+      ],
+      "responses": [
+        "Allah sendiri melarang untuk menyembah bulan dan matahari dalam surat Fussilat : 37"
+      ]
     }
   ]
 }
